@@ -1,4 +1,4 @@
-# awesome StencilJS
+# Awesome StencilJS  
 
 A collection of awesome things regarding the Stencil ecosystem.
 
@@ -45,7 +45,25 @@ Built by the Ionic Framework team.
 - [End-to-end Testing](https://stenciljs.com/docs/end-to-end-testing)
 - [Screenshot Visual Diff](https://stenciljs.com/docs/screenshot-visual-diff)
 
-> Testing within Stencil is broken up into two distinct types: Unit tests and End-to-end (e2e) tests. Both types use Jest as the JavaScript testing solution. The browser environment for end-to-end testing is done using Puppeteer
+> Testing within Stencil is broken up into two distinct types: Unit tests and End-to-end (e2e) tests. Both types use Jest as the JavaScript testing solution. The browser environment for end-to-end testing is done using Puppeteer.
 
 - [Jest](https://jestjs.io/) - A delightful JavaScript Testing Framework with a focus on simplicity.
 - [Puppeteer](https://pptr.dev/) - a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol
+
+## Videos
+
+### Conferences
+
+#### 2019
+
+- [A built-time approach to the web](https://www.youtube.com/watch?v=M1F81V-NhP0) - Manu Martinez-Almeida - JSConf EU 2019
+- [Architecting A Component Compiler](https://www.youtube.com/watch?v=RZ6MLELGsD8) - Adam Bradley - dotJS 2019
+
+#### 2018
+
+- [Building StencilJS with TypeScript](https://www.youtube.com/watch?v=LBv07i-Wim8) - Josh Thomas - TSConf 2018
+- [Universal Components with StencilJS](https://www.youtube.com/watch?v=CvyqKUvP4wU) - Mike Hartington - Forwardjs 2018
+
+#### 2017
+
+- [Using Web Components in Ionic](https://www.youtube.com/watch?v=UfD-k7aHkQE) - Max Lynch & Adam Bradley - Polymer Summit 2017
