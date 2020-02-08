@@ -2,6 +2,17 @@
 
 A collection of awesome things regarding the Stencil ecosystem.
 
+- [Stencil](#stencil)
+  - [Stencil General Resources](#stencil-general-resources)
+  - [Stencil Community](#stencil-community)
+  - [Stencil News](#stencil-news)
+- [JSX](#jsx)
+- [Typescript](#typescript)
+- [Stencil Tesing](#stencil-testing)
+- [Videos](#videos)
+  - [Conferences](#conferences)
+
+
 ## Stencil
 
 > A Web Component compiler for building fast, reusable UI components and Progressive Web Apps.<br>
@@ -39,7 +50,7 @@ Built by the Ionic Framework team.
 - [Typescript Playground](https://www.typescriptlang.org/play/index.html)
 - [Typed Components](https://stenciljs.com/docs/typed-components)
 
-## Stencil Tesing
+## Stencil Testing
 
 - [Unit Testing](https://stenciljs.com/docs/unit-testing)
 - [End-to-end Testing](https://stenciljs.com/docs/end-to-end-testing)
@@ -54,16 +65,16 @@ Built by the Ionic Framework team.
 
 ### Conferences
 
-#### 2019
+2019
 
 - [A built-time approach to the web](https://www.youtube.com/watch?v=M1F81V-NhP0) - Manu Martinez-Almeida - JSConf EU 2019
 - [Architecting A Component Compiler](https://www.youtube.com/watch?v=RZ6MLELGsD8) - Adam Bradley - dotJS 2019
 
-#### 2018
+2018
 
 - [Building StencilJS with TypeScript](https://www.youtube.com/watch?v=LBv07i-Wim8) - Josh Thomas - TSConf 2018
 - [Universal Components with StencilJS](https://www.youtube.com/watch?v=CvyqKUvP4wU) - Mike Hartington - Forwardjs 2018
 
-#### 2017
+2017
 
 - [Using Web Components in Ionic](https://www.youtube.com/watch?v=UfD-k7aHkQE) - Max Lynch & Adam Bradley - Polymer Summit 2017
