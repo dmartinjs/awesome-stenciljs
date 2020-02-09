@@ -6,9 +6,10 @@ A collection of awesome things regarding the Stencil ecosystem.
   - [Stencil General Resources](#stencil-general-resources)
   - [Stencil Community](#stencil-community)
   - [Stencil News](#stencil-news)
-- [JSX](#jsx)
-- [Typescript](#typescript)
-- [Stencil Tesing](#stencil-testing)
+  - [Stencil and JSX](#stencil-and-jsx)
+  - [Stencil and Typescript](#stencil-and-typescript)
+  - [Stencil Testing](#stencil-testing)
+- [Made with Stencil](#made-with-stencil)
 - [Videos](#videos)
   - [Conferences](#conferences)
 
@@ -34,14 +35,14 @@ Built by the Ionic Framework team.
 - [Stencil / Ionic Podcast](https://betontheweb.ionicframework.com/)
 - [Stencil Blog](https://stenciljs.com/blog)
 
-## JSX
+### Stencil and JSX
 
 > JSX, or JavaScript XML , is an extension to the JavaScript language syntax. Similar in appearance to HTML, JSX provides a way to structure component rendering using syntax familiar to many developers.
 
 - [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
 - [JSX in Stencil](https://stenciljs.com/docs/templating-jsx)
 
-## Typescript
+### Stencil and Typescript
 
 > TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
@@ -50,7 +51,7 @@ Built by the Ionic Framework team.
 - [Typescript Playground](https://www.typescriptlang.org/play/index.html)
 - [Typed Components](https://stenciljs.com/docs/typed-components)
 
-## Stencil Testing
+### Stencil Testing
 
 - [Unit Testing](https://stenciljs.com/docs/unit-testing)
 - [End-to-end Testing](https://stenciljs.com/docs/end-to-end-testing)
@@ -60,6 +61,12 @@ Built by the Ionic Framework team.
 
 - [Jest](https://jestjs.io/) - A delightful JavaScript Testing Framework with a focus on simplicity.
 - [Puppeteer](https://pptr.dev/) - a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol
+
+## Made with Stencil
+
+- [Ionic](https://ionicframework.com/) - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything.
+- [Duet](https://www.duetds.com/using-components/) - Duet provides a set of organized tools, patterns and practices that work as the foundation for LocalTapiola and Turva digital products and experiences.
+- [Blaze](https://www.blazeui.com/) - Framework-free open source UI toolkit. It provides great structure for building websites quickly with a scalable and maintainable foundation.
 
 ## Videos
 
