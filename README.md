@@ -57,10 +57,10 @@ Built by the Ionic Framework team.
 
 ### Stencil Styling
 
-- [Sass](https://github.com/ionic-team/stencil-sass)
-- [PostCSS](https://github.com/ionic-team/stencil-postcss)
-- [Less](https://github.com/ionic-team/stencil-less)
-- [Stylus](https://github.com/ionic-team/stencil-stylus)
+- [Sass](https://github.com/ionic-team/stencil-sass) - CSS with superpowers
+- [PostCSS](https://github.com/ionic-team/stencil-postcss) - A tool for transforming CSS with JavaScript
+- [Less](https://github.com/ionic-team/stencil-less) - It's CSS, with just a little more.
+- [Stylus](https://github.com/ionic-team/stencil-stylus) - Expressive, robust, feature-rich CSS language
 
 ### Stencil Testing
 
