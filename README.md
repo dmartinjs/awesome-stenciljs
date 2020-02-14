@@ -11,8 +11,8 @@ A collection of awesome things regarding the Stencil ecosystem.
 - [Stencil Tools](#stencil-tools)
   - [Stencil Development Tools](#stencil-development-tools)
   - [Stencil Styling](#stencil-styling)
+  - [Stencil Component Libraries](#stencil-component-libraries)
   - [Stencil Testing](#stencil-testing)
-- [Made with Stencil](#made-with-stencil)
 - [Articles](#articles)
 - [Videos](#videos)
   - [Conferences](#conferences)
@@ -25,7 +25,7 @@ Built by the Ionic Framework team.
 
 ### Stencil General Resources
 
-- [Stencil Official Website](https://stenciljs.com/)
+- [Stencil Official Website](https://stenciljs.com)
 - [Stencil Documentation](https://stenciljs.com/docs/introduction)
 - [Stencil GitHub](https://github.com/ionic-team/stencil)
 
@@ -76,6 +76,11 @@ Built by the Ionic Framework team.
 - [Less](https://github.com/ionic-team/stencil-less) - It's CSS, with just a little more.
 - [Stylus](https://github.com/ionic-team/stencil-stylus) - Expressive, robust, feature-rich CSS language
 
+### Stencil Component Libraries
+
+- [Ionic](https://github.com/ionic-team/ionic/tree/master/core) - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything.
+- [Blaze](https://github.com/BlazeSoftware/blaze) - Framework-free open source UI toolkit. It provides great structure for building websites quickly with a scalable and maintainable foundation.
+
 ### Stencil Testing
 
 - [Unit Testing](https://stenciljs.com/docs/unit-testing)
@@ -84,19 +89,12 @@ Built by the Ionic Framework team.
 
 > Testing within Stencil is broken up into two distinct types: Unit tests and End-to-end (e2e) tests. Both types use Jest as the JavaScript testing solution. The browser environment for end-to-end testing is done using Puppeteer.
 
-- [Jest](https://jestjs.io/) - A delightful JavaScript Testing Framework with a focus on simplicity.
-- [Puppeteer](https://pptr.dev/) - a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol
-
-
-## Made with Stencil
-
-- [Ionic](https://ionicframework.com/) - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything.
-- [Duet](https://www.duetds.com/using-components/) - Duet provides a set of organized tools, patterns and practices that work as the foundation for LocalTapiola and Turva digital products and experiences.
-- [Blaze](https://www.blazeui.com/) - Framework-free open source UI toolkit. It provides great structure for building websites quickly with a scalable and maintainable foundation.
+- [Jest](https://jestjs.io) - A delightful JavaScript Testing Framework with a focus on simplicity.
+- [Puppeteer](https://pptr.dev) - a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol
 
 ## Articles
 
-- [The Basics of Unit Testing in StencilJS](https://www.joshmorony.com/the-basics-of-unit-testing-in-stencil-js/)
+- [The Basics of Unit Testing in StencilJS](https://www.joshmorony.com/the-basics-of-unit-testing-in-stencil-js)
 
 ## Videos
 
