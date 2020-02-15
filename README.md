@@ -14,6 +14,7 @@ A collection of awesome things regarding the Stencil ecosystem.
   - [Stencil Styling](#stencil-styling)
   - [Stencil Component Libraries](#stencil-component-libraries)
   - [Stencil Testing](#stencil-testing)
+  - [Stencil Integration](#stencil-integration)
   - [Stencil State Management](#stencil-state-management)
 - [Redux](#redux)
   - [Redux General Resources](#redux-general-resources)
@@ -95,6 +96,14 @@ Built by the Ionic Framework team.
 
 - [Jest](https://jestjs.io) - A delightful JavaScript Testing Framework with a focus on simplicity.
 - [Puppeteer](https://pptr.dev) - a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.
+
+### Stencil Integration
+
+- [React](https://stenciljs.com/docs/react)
+- [Angular](https://stenciljs.com/docs/angular)
+- [Vue](https://stenciljs.com/docs/vue)
+- [Ember](https://stenciljs.com/docs/ember)
+- [Javascript](https://stenciljs.com/docs/javascript) (Without framework)
 
 ### Stencil State Management
 
