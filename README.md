@@ -14,6 +14,11 @@ A collection of awesome things regarding the Stencil ecosystem.
   - [Stencil Styling](#stencil-styling)
   - [Stencil Component Libraries](#stencil-component-libraries)
   - [Stencil Testing](#stencil-testing)
+  - [Stencil State Management](#stencil-state-management)
+- [Redux](#redux)
+  - [Redux General Resources](#redux-general-resources)
+  - [Redux Tools](#redux-tools)
+  - [Redux Tutorials](#redux-tutorials)
 - [Articles](#articles)
 - [Videos](#videos)
   - [Conferences](#conferences)
@@ -90,6 +95,28 @@ Built by the Ionic Framework team.
 
 - [Jest](https://jestjs.io) - A delightful JavaScript Testing Framework with a focus on simplicity.
 - [Puppeteer](https://pptr.dev) - a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.
+
+### Stencil State Management
+
+- [Redux](#redux)
+
+## Redux
+
+> Predictable State Container for JavaScript Apps
+
+### Redux General Resources
+
+- [Redux GitHub](https://github.com/reduxjs/redux)
+- [Redux Official Site](http://redux.js.org)
+
+### Redux Tools
+
+- [Stencil-redux](https://github.com/ionic-team/stencil-redux) - A simple redux connector for Stencil-built web components inspired by react-redux.
+- [redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
+
+### Redux Tutorials
+- [Building Applications with Stencil and Redux](https://stenciljs.com/docs/stencil-redux)
+- [State Management with Redux in StencilJS: Loading Data](https://www.joshmorony.com/state-management-with-redux-in-ionic-stenciljs-loading-data/)
 
 ## Articles
 
