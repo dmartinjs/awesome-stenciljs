@@ -98,7 +98,8 @@ Built by the Ionic Framework team.
 
 ### Stencil State Management
 
-- [Redux](#redux)
+- [Stencil State Tunnel](https://github.com/ionic-team/stencil-state-tunnel) - Tunneling state/props down through a component stack (Inspired by React Context)
+- [Redux](#redux) - Predictable State Container for JavaScript Apps
 
 ## Redux
 
