@@ -6,6 +6,7 @@ A collection of awesome things regarding the Stencil ecosystem.
   - [Stencil General Resources](#stencil-general-resources)
   - [Stencil Community](#stencil-community)
   - [Stencil News](#stencil-news)
+- [Stencil Tutorials](#stencil-tutorials)
   - [Stencil and JSX](#stencil-and-jsx)
   - [Stencil and Typescript](#stencil-and-typescript)
 - [Stencil Tools](#stencil-tools)
@@ -38,6 +39,8 @@ Built by the Ionic Framework team.
 
 - [Stencil / Ionic Podcast](https://betontheweb.ionicframework.com/)
 - [Stencil Blog](https://stenciljs.com/blog)
+
+## Stencil Tutorials
 
 ### Stencil and JSX
 
