@@ -24,6 +24,7 @@ A collection of awesome things regarding the Stencil ecosystem.
 - [Videos](#videos)
   - [Conferences](#conferences)
 
+---
 
 ## Stencil
 
@@ -46,6 +47,8 @@ Built by the Ionic Framework team.
 - [Stencil / Ionic Podcast](https://betontheweb.ionicframework.com/)
 - [Stencil Blog](https://stenciljs.com/blog)
 
+---
+
 ## Stencil Tutorials
 
 ### Stencil and JSX
@@ -63,6 +66,8 @@ Built by the Ionic Framework team.
 - [Typescript Documentation](https://www.typescriptlang.org/docs/home.html)
 - [Typescript Playground](https://www.typescriptlang.org/play/index.html)
 - [Typed Components](https://stenciljs.com/docs/typed-components)
+
+---
 
 ## Stencil Tools
 
@@ -110,6 +115,8 @@ Built by the Ionic Framework team.
 - [Stencil State Tunnel](https://github.com/ionic-team/stencil-state-tunnel) - Tunneling state/props down through a component stack (Inspired by React Context)
 - [Redux](#redux) - Predictable State Container for JavaScript Apps
 
+---
+
 ## Redux
 
 > Predictable State Container for JavaScript Apps
@@ -128,11 +135,15 @@ Built by the Ionic Framework team.
 - [Building Applications with Stencil and Redux](https://stenciljs.com/docs/stencil-redux)
 - [State Management with Redux in StencilJS: Loading Data](https://www.joshmorony.com/state-management-with-redux-in-ionic-stenciljs-loading-data/)
 
+---
+
 ## Articles
 
 - [Why We Use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i)
 - [5 Reasons Web Components Are Perfect for Design Systems](https://ionicframework.com/blog/5-reasons-web-components-are-perfect-for-design-systems/)
 - [Build Your Next Design System with Web Components](https://ionicframework.com/blog/build-your-next-design-system-with-web-components/)
+
+---
 
 ## Videos
 
