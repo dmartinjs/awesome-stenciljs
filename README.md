@@ -58,8 +58,11 @@ Built by the Ionic Framework team.
 ## Stencil Tools
 
 ### Stencil Development Tools
-
-- [Storybook](https://github.com/storybookjs/storybook) - UI component dev, test and documentation
+- [Ionic PWA Toolkit](https://github.com/ionic-team/ionic-pwa-toolkit) - Build lightning fast Progressive Web Apps with zero config and best practices built-in.
+- [Stencil App Starter](https://github.com/ionic-team/stencil-app-starter) - Minimal starter project for building apps with Stencil.
+- [Stencil Component Starter](https://github.com/ionic-team/stencil-component-starter) - Minimal starter project for building shareable web components with Stencil.
+- [Storybook](https://github.com/storybookjs/storybook) - UI component dev, test and documentation.
+- [Stencil-eslint-plugin](https://github.com/ionic-team/stencil-eslint) - ESLint rules specific to Stencil JS projects.
 
 ### Stencil Styling
 
@@ -83,7 +86,7 @@ Built by the Ionic Framework team.
 > Testing within Stencil is broken up into two distinct types: Unit tests and End-to-end (e2e) tests. Both types use Jest as the JavaScript testing solution. The browser environment for end-to-end testing is done using Puppeteer.
 
 - [Jest](https://jestjs.io) - A delightful JavaScript Testing Framework with a focus on simplicity.
-- [Puppeteer](https://pptr.dev) - a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol
+- [Puppeteer](https://pptr.dev) - a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.
 
 ## Articles
 
