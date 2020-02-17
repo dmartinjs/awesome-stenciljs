@@ -7,11 +7,13 @@ A collection of awesome things regarding the Stencil ecosystem.
   - [Stencil Community](#stencil-community)
   - [Stencil News](#stencil-news)
 - [Stencil Tutorials](#stencil-tutorials)
+  - [Stencil General Tutorials](#stencil-general-tutorials)
   - [Stencil and JSX](#stencil-and-jsx)
   - [Stencil and Typescript](#stencil-and-typescript)
 - [Stencil Tools](#stencil-tools)
   - [Stencil Development Tools](#stencil-development-tools)
   - [Stencil Styling](#stencil-styling)
+  - [Stencil Routing](#stencil-routing)
   - [Stencil Component Libraries](#stencil-component-libraries)
   - [Stencil Testing](#stencil-testing)
   - [Stencil Integration](#stencil-integration)
@@ -90,6 +92,10 @@ Built by the Ionic Framework team.
 - [PostCSS](https://github.com/ionic-team/stencil-postcss) - A tool for transforming CSS with JavaScript
 - [Less](https://github.com/ionic-team/stencil-less) - It's CSS, with just a little more.
 - [Stylus](https://github.com/ionic-team/stencil-stylus) - Expressive, robust, feature-rich CSS language
+
+### Stencil Routing
+
+- [Stencil Router](https://github.com/ionic-team/stencil-router) - A simple router, inspired by React Router v4, for Stencil apps and vanilla Web Component apps.
 
 ### Stencil Component Libraries
 
