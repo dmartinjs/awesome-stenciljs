@@ -51,6 +51,11 @@ Built by the Ionic Framework team.
 
 ## Stencil Tutorials
 
+### Stencil General Tutorials
+
+- [Stencil Official Tutorial](https://stenciljs.com/docs/my-first-component)
+- [Stencil Cheatsheet](https://devhints.io/stencil)
+
 ### Stencil and JSX
 
 > JSX, or JavaScript XML , is an extension to the JavaScript language syntax. Similar in appearance to HTML, JSX provides a way to structure component rendering using syntax familiar to many developers.
