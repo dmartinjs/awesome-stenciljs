@@ -96,6 +96,7 @@ Built by the Ionic Framework team.
 ### Stencil Routing
 
 - [Stencil Router](https://github.com/ionic-team/stencil-router) - A simple router, inspired by React Router v4, for Stencil apps and vanilla Web Component apps.
+- [ion-router](https://ionicframework.com/docs/api/router) - A component for handling routing inside vanilla and Stencil JavaScript projects.
 
 ### Stencil Component Libraries
 
