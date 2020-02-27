@@ -2,15 +2,15 @@
 
 A collection of awesome things regarding the Stencil ecosystem.
 
-- [Stencil](#stencil)
+- [Stencil](#package-stencil)
   - [Stencil General Resources](#stencil-general-resources)
   - [Stencil Community](#stencil-community)
   - [Stencil News](#stencil-news)
-- [Stencil Tutorials](#stencil-tutorials)
+- [Stencil Tutorials](#mortar_board-stencil-tutorials)
   - [Stencil General Tutorials](#stencil-general-tutorials)
   - [Stencil and JSX](#stencil-and-jsx)
   - [Stencil and Typescript](#stencil-and-typescript)
-- [Stencil Tools](#stencil-tools)
+- [Stencil Tools](#wrench-stencil-tools)
   - [Stencil Development Tools](#stencil-development-tools)
   - [Stencil Styling](#stencil-styling)
   - [Stencil Routing](#stencil-routing)
@@ -19,17 +19,17 @@ A collection of awesome things regarding the Stencil ecosystem.
   - [Stencil Integration](#stencil-integration)
   - [Stencil State Management](#stencil-state-management)
   - [Stencil Code Editor Plugins](#stencil-code-editor-plugins)
-- [Redux](#redux)
+- [Redux](#atom_symbol-redux)
   - [Redux General Resources](#redux-general-resources)
   - [Redux Tools](#redux-tools)
   - [Redux Tutorials](#redux-tutorials)
-- [Articles](#articles)
-- [Videos](#videos)
+- [Articles](#newspaper-articles)
+- [Videos](#movie_camera-videos)
   - [Conferences](#conferences)
 
 ---
 
-## Stencil
+## :package: Stencil
 
 > A Web Component compiler for building fast, reusable UI components and Progressive Web Apps.<br>
 Built by the Ionic Framework team.
@@ -52,7 +52,7 @@ Built by the Ionic Framework team.
 
 ---
 
-## Stencil Tutorials
+## :mortar_board: Stencil Tutorials
 
 ### Stencil General Tutorials
 
@@ -77,7 +77,7 @@ Built by the Ionic Framework team.
 
 ---
 
-## Stencil Tools
+## :wrench: Stencil Tools
 
 ### Stencil Development Tools
 - [Ionic PWA Toolkit](https://github.com/ionic-team/ionic-pwa-toolkit) - Build lightning fast Progressive Web Apps with zero config and best practices built-in.
@@ -127,7 +127,7 @@ Built by the Ionic Framework team.
 ### Stencil State Management
 
 - [Stencil State Tunnel](https://github.com/ionic-team/stencil-state-tunnel) - Tunneling state/props down through a component stack (Inspired by React Context)
-- [Redux](#redux) - Predictable State Container for JavaScript Apps
+- [Redux](#atom_symbol-redux) - Predictable State Container for JavaScript Apps
 
 ### Stencil Code Editor Plugins
 
@@ -138,7 +138,7 @@ Visual Studio Code
 
 ---
 
-## Redux
+## :atom_symbol: Redux
 
 > Predictable State Container for JavaScript Apps
 
@@ -158,7 +158,7 @@ Visual Studio Code
 
 ---
 
-## Articles
+## :newspaper: Articles
 
 - [Why We Use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i)
 - [5 Reasons Web Components Are Perfect for Design Systems](https://ionicframework.com/blog/5-reasons-web-components-are-perfect-for-design-systems/)
@@ -166,7 +166,7 @@ Visual Studio Code
 
 ---
 
-## Videos
+## :movie_camera: Videos
 
 ### Conferences
 
