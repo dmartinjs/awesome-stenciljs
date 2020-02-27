@@ -18,6 +18,7 @@ A collection of awesome things regarding the Stencil ecosystem.
   - [Stencil Testing](#stencil-testing)
   - [Stencil Integration](#stencil-integration)
   - [Stencil State Management](#stencil-state-management)
+  - [Stencil Code Editor Plugins](#stencil-code-editor-plugins)
 - [Redux](#redux)
   - [Redux General Resources](#redux-general-resources)
   - [Redux Tools](#redux-tools)
@@ -127,6 +128,13 @@ Built by the Ionic Framework team.
 
 - [Stencil State Tunnel](https://github.com/ionic-team/stencil-state-tunnel) - Tunneling state/props down through a component stack (Inspired by React Context)
 - [Redux](#redux) - Predictable State Container for JavaScript Apps
+
+### Stencil Code Editor Plugins
+
+Visual Studio Code
+
+- [Stencil Tools](https://marketplace.visualstudio.com/items?itemName=natemoo-re.vscode-stencil-tools) - VS Code Extension that makes working with Stencil projects a breeze.
+- [Stencil Snippets](https://marketplace.visualstudio.com/items?itemName=fdom.stencil-snippets) - An extension to add some snippets on vs code
 
 ---
 
