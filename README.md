@@ -160,9 +160,16 @@ Visual Studio Code
 
 ## :newspaper: Articles
 
+Ionic Team
+
 - [Why We Use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i)
 - [5 Reasons Web Components Are Perfect for Design Systems](https://ionicframework.com/blog/5-reasons-web-components-are-perfect-for-design-systems/)
 - [Build Your Next Design System with Web Components](https://ionicframework.com/blog/build-your-next-design-system-with-web-components/)
+
+Community
+
+- [Build Your Own Design System With StencilJS](https://dev.to/juliendemangeon/build-your-own-design-system-with-stenciljs-1jfg)
+- [The Basics of Unit Testing in StencilJS](https://www.joshmorony.com/the-basics-of-unit-testing-in-stencil-js/)
 
 ---
 
