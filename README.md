@@ -17,6 +17,7 @@ A collection of awesome things regarding the Stencil ecosystem.
   - [Stencil Component Libraries](#stencil-component-libraries)
   - [Stencil Testing](#stencil-testing)
   - [Stencil Integration](#stencil-integration)
+  - [Stencil Internationalization](#stencil-internationalization)
   - [Stencil State Management](#stencil-state-management)
   - [Stencil Code Editor Plugins](#stencil-code-editor-plugins)
 - [Redux](#atom_symbol-redux)
@@ -123,6 +124,11 @@ Built by the Ionic Framework team.
 - [Vue](https://stenciljs.com/docs/vue)
 - [Ember](https://stenciljs.com/docs/ember)
 - [Javascript](https://stenciljs.com/docs/javascript) (Without framework)
+
+### Stencil Internationalization
+
+- [Polyglot](https://github.com/airbnb/polyglot.js) - Give your JavaScript the ability to speak many languages.
+- [i18next](https://github.com/i18next/i18next) - learn once, translate everywhere
 
 ### Stencil State Management
 
