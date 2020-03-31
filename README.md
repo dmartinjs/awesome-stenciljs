@@ -168,6 +168,7 @@ Visual Studio Code
 
 Ionic Team
 
+- [How Lazy-Loading Web Components Work with Stencil](https://stenciljs.com/blog/how-lazy-loading-web-components-work)
 - [Why We Use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i)
 - [5 Reasons Web Components Are Perfect for Design Systems](https://ionicframework.com/blog/5-reasons-web-components-are-perfect-for-design-systems/)
 - [Build Your Next Design System with Web Components](https://ionicframework.com/blog/build-your-next-design-system-with-web-components/)
