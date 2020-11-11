@@ -81,6 +81,7 @@ Built by the Ionic Framework team.
 ## :wrench: Stencil Tools
 
 - [Stencil Static Site Generation](https://github.com/ionic-team/stencil-ssg) - Utility functions and helpers for building static sites with Stencil.
+- [Stencil Output Targets](https://github.com/ionic-team/stencil-ds-output-targets) - These are output targets that can be added to Stencil for React, Angular, Vue or Svelte.
 
 ### Stencil Development Tools
 - [Ionic PWA Toolkit](https://github.com/ionic-team/ionic-pwa-toolkit) - Build lightning fast Progressive Web Apps with zero config and best practices built-in.
