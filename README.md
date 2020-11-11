@@ -133,6 +133,7 @@ Built by the Ionic Framework team.
 ### Stencil State Management
 
 - [Stencil State Tunnel](https://github.com/ionic-team/stencil-state-tunnel) - Tunneling state/props down through a component stack (Inspired by React Context)
+- [@stencil/store](https://stenciljs.com/docs/stencil-store#stencil-store) - Store is a lightweight shared state library by the stencil core team. It implements a simple key/value map that efficiently re-renders components when necessary.
 - [Redux](#atom_symbol-redux) - Predictable State Container for JavaScript Apps
 
 ### Stencil Code Editor Plugins
