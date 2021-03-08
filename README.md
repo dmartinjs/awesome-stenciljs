@@ -106,6 +106,7 @@ Built by the Ionic Framework team.
 ### Stencil Component Libraries
 
 - [Ionic](https://github.com/ionic-team/ionic/tree/master/core) - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything.
+- [Shoelace](https://shoelace.style): A collection of professionally designed, every day UI components built on a framework-agnostic technology.
 - [Blaze](https://github.com/BlazeSoftware/blaze) - Framework-free open source UI toolkit. It provides great structure for building websites quickly with a scalable and maintainable foundation.
 - [Bulmil](https://github.com/Gomah/bulmil) - An agnostic UI components library based on Web Components, made with Bulma & Stencil.
 
