@@ -125,6 +125,7 @@ Built by the Ionic Framework team.
 - [React](https://stenciljs.com/docs/react)
 - [Angular](https://stenciljs.com/docs/angular)
 - [Vue](https://stenciljs.com/docs/vue)
+- [Svelte](https://github.com/ionic-team/stencil-ds-output-targets#svelte)
 - [Ember](https://stenciljs.com/docs/ember)
 - [Javascript](https://stenciljs.com/docs/javascript) (Without framework)
 
