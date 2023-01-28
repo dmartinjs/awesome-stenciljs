@@ -40,6 +40,7 @@ Built by the Ionic Framework team.
 - [Stencil Official Website](https://stenciljs.com)
 - [Stencil Documentation](https://stenciljs.com/docs/introduction)
 - [Stencil GitHub](https://github.com/ionic-team/stencil)
+- [Stencil Changelog](https://github.com/ionic-team/stencil/blob/main/CHANGELOG.md)
 
 ### Stencil Community
 
