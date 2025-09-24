@@ -49,7 +49,6 @@ Built by the Ionic Framework team.
 
 ### Stencil News
 
-- [Stencil / Ionic Podcast](https://betontheweb.ionicframework.com/)
 - [Stencil Blog](https://ionic.io/blog/category/stencil)
 
 ---
