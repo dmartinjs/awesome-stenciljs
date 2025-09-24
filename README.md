@@ -44,7 +44,7 @@ Built by the Ionic Framework team.
 
 ### Stencil Community
 
-- [Stencil Slack](https://stencil-worldwide.herokuapp.com)
+- [Stencil Discord](https://chat.stenciljs.com/)
 - [Stencil Twitter](https://twitter.com/stenciljs)
 
 ### Stencil News
