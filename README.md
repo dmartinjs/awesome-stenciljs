@@ -58,7 +58,6 @@ Built by the Ionic Framework team.
 ### Stencil General Tutorials
 
 - [Stencil Official Tutorial](https://stenciljs.com/docs/my-first-component)
-- [Stencil Cheatsheet](https://devhints.io/stencil)
 
 ### Stencil and JSX
 
