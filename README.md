@@ -63,7 +63,7 @@ Built by the Ionic Framework team.
 
 > JSX, or JavaScript XML , is an extension to the JavaScript language syntax. Similar in appearance to HTML, JSX provides a way to structure component rendering using syntax familiar to many developers.
 
-- [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [Writing Markup with JSX](https://react.dev/learn/writing-markup-with-jsx)
 - [JSX in Stencil](https://stenciljs.com/docs/templating-jsx)
 
 ### Stencil and Typescript
