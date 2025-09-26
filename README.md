@@ -81,7 +81,6 @@ Built by the Ionic Framework team.
 ## :wrench: Stencil Tools
 
 ### Stencil Development Tools
-- [Ionic PWA Toolkit](https://github.com/ionic-team/ionic-pwa-toolkit) - Build lightning fast Progressive Web Apps with zero config and best practices built-in.
 - [Stencil App Starter](https://github.com/stencil-community/stencil-app-starter) - Minimal starter project for building apps with Stencil.
 - [Stencil Component Starter](https://github.com/ionic-team/stencil-component-starter) - Minimal starter project for building shareable web components with Stencil.
 - [Stencil Static Site Generation](https://stenciljs.com/docs/static-site-generation) - Utility functions and helpers for building static sites with Stencil.
