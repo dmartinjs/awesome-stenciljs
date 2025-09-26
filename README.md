@@ -71,7 +71,7 @@ Built by the Ionic Framework team.
 > TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 - [Typescript Official Website](https://www.typescriptlang.org/index.html)
-- [Typescript Documentation](https://www.typescriptlang.org/docs/home.html)
+- [Typescript Documentation](https://www.typescriptlang.org/docs/)
 - [Typescript Playground](https://www.typescriptlang.org/play/index.html)
 - [Typed Components](https://stenciljs.com/docs/typed-components)
 
