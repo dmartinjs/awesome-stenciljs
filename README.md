@@ -91,11 +91,9 @@ Built by the Ionic Framework team.
 
 ### Stencil Styling
 
-- [Styled Component](https://github.com/auderer/stencil-styled-components) - Use the best bits of ES6 and CSS to style your apps without stress
-- [Sass](https://github.com/ionic-team/stencil-sass) - CSS with superpowers
-- [PostCSS](https://github.com/ionic-team/stencil-postcss) - A tool for transforming CSS with JavaScript
-- [Less](https://github.com/ionic-team/stencil-less) - It's CSS, with just a little more.
-- [Stylus](https://github.com/ionic-team/stencil-stylus) - Expressive, robust, feature-rich CSS language
+- [Sass](https://github.com/stenciljs/sass) - CSS with superpowers
+- [PostCSS](https://github.com/stencil-community/stencil-postcss) - A tool for transforming CSS with JavaScript
+- [Less](https://github.com/stencil-community/stencil-less) - It's CSS, with just a little more.
 
 ### Stencil Routing
 
