@@ -73,7 +73,8 @@ Built by the Ionic Framework team.
 - [Typescript Official Website](https://www.typescriptlang.org/index.html)
 - [Typescript Documentation](https://www.typescriptlang.org/docs/)
 - [Typescript Playground](https://www.typescriptlang.org/play/index.html)
-- [Typed Components](https://stenciljs.com/docs/typed-components)
+- [Stencil Typed Components](https://stenciljs.com/docs/typed-components)
+- [Stencil Props Types](https://stenciljs.com/docs/properties#types)
 
 ---
 
